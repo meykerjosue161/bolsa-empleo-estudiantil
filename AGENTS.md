@@ -9,7 +9,7 @@ está organizado el proyecto y qué reglas sigue.
 - Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
 - La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
   resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+- Producto: Bolsa de empleo estudiantil (sitio de referencia: Computrabajo) para conectar estudiantes con vacantes y pasantías mediante un ranking basado en la coincidencia de habilidades. Permite gestionar perfiles estudiantiles, ofertas laborales y postulaciones ordenadas por afinidad.
 
 ## Reglas obligatorias
 
